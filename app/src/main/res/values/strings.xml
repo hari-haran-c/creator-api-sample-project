@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Creator API sample project</string>
+    <string name="label_signout">Sign out</string>
+</resources>

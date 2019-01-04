@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="zoho_client_id" translatable="false">1000.E4W6JT6NC4H5253904WR4AI73HHRZA</string>
+    <string name="zoho_client_secret" translatable="false">d616e58fbad1b6336ad435112f26d3be44b1e9a7e0</string>
+    <string name="redir_url" translatable="false">myaarproject://</string>
+    <string name="accounts_url" translatable="false">https://accounts.zoho.com</string>
+    <string name="zoho_redir_uri_for_intent_filter" translatable="false">myaarproject</string>
+</resources>
