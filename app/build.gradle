@@ -20,9 +20,6 @@ android {
 }
 
 repositories {
-    maven{
-        url '/Users/hari-3935/ZC Playstore New Commit Branch/Creator UI Repository/repository'
-    }
 
     maven{
         url 'https://maven.zohodl.com'
